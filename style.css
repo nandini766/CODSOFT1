@@ -1,0 +1,29 @@
+body{
+  margin: 0px;
+  padding: 0px;
+  text-align: center;
+  border-color: #fff;
+  background-color: rgba(0, 0, 0, 0.924);
+  background-size: cover;
+  height: 100vh;
+}
+h1{
+  color: #e1baba;
+  text-align: center;
+  font-size: 45px;
+}
+input{
+  width: 75px;
+  height: 60px;
+  font-size: 30px;
+  border-radius: 8px;
+  margin: 4px;
+  background-color: black;
+  color: #fff;
+  border-style: none;
+}
+
+.btn:hover{
+  background-color: yellowgreen;
+  cursor: pointer;
+}
